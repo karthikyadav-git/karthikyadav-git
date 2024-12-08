@@ -37,12 +37,12 @@ I am Karthik Yadav. I am a developer from Nepal. I am currently working on a inv
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=karthikyadav-git&show_icons=true&rank_icon=github&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<!--&show=prs_merged,prs_merged_percentage-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikyadav-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikyadav-git&theme=dark&layout=compact&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karthikyadav-git&theme=dark&hide_border=false)<br/>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=karthikyadav-git&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=20&margin-h=20&column=8&rank=-?)
+![](https://github-profile-trophy.vercel.app/?username=karthikyadav-git&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=20&margin-h=20&column=4&rank=-?)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=karthikyadav-git&icon=0&color=12)](https://github.com/karthikyadav-git)
