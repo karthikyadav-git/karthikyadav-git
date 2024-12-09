@@ -36,9 +36,10 @@ I am Karthik Yadav. I am a developer from Nepal. I am currently working on a inv
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karthikyadav-git&show_icons=true&rank_icon=github&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<!--&show=prs_merged,prs_merged_percentage-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikyadav-git&theme=dark&layout=compact&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=karthikyadav-git&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=karthikyadav-git&show_icons=true&rank_icon=github&theme=dark&hide_border=false&include_all_commits=false&count_private=true&border_radius=10)<!--&show=prs_merged,prs_merged_percentage--> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikyadav-git&theme=dark&layout=compact&hide_border=false&include_all_commits=true&count_private=true&border_radius=10) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=karthikyadav-git&theme=dark&hide_border=false&border_radius=10)
+<br/>
 
 
 ## 🏆 GitHub Trophies
