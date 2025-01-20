@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Nepal</h3>
 
 # 💫 About Me:
-I am Karthik Yadav. I am a developer from Nepal. I am currently working on a investment portfolio tracker app. I have created an express app that gives stock market data in json format.
+I am Karthik Yadav. I am a developer from Nepal. I have experience of more than 2 years with programming.
 
 
 ## 🌐 Socials:
